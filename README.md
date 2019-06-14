@@ -12,4 +12,4 @@ I have created a React project folder structure that I use frequently.
 2. react-router-dom
 3. react-testing-library
 4. jest-dom
-5. redux, react-redux
+5. redux, react-redux, redux-devtools-extension
